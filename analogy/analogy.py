@@ -1,8 +1,8 @@
-##########################################################################
 # Run analogies of the type queen-woman+man=king
 # (Paris is to France what ___ is to Germany)
-# To test, download the analogy data as per README
-##########################################################################
+# To test, download the analogy data as per README. You can replace this file with your own if you like, in the readAnalogy function.
+# USAGE: python ./analogy.py [space] [dimensionality]
+# EXAMPLE: python analogy.py /home/user/Corpora/composes-vectors/EN-wform.w.5.cbow.neg10.400.subsmpl.txt 400
 
 import sys
 sys.path.append("/home/user/faiss/")
