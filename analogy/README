@@ -1,0 +1,5 @@
+Before running an analogy test on your semantic space, download the analogy dataset by Mikolov et al (2013):
+wget http://www.fit.vutbr.cz/~imikolov/rnnlm/word-test.v1.txt
+
+Associated publication for the Mikolov dataset:
+Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013).
